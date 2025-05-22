@@ -7,7 +7,7 @@ Esta reflexão contribui diretamente para o desenvolvimento contínuo, promovend
 # Ferramenta Aplicada
 Plataforma: Trello
 
-Acesso ao quadro: Clique aqui para acessar o Trello
+Acesso ao quadro: [AQUI](https://trello.com/b/NaZs3U7m/din%C3%A2mica-continuar-parar-e-come%C3%A7ar)
 
 # CONTINUAR
 Práticas que geraram bons resultados e devem ser mantidas:
